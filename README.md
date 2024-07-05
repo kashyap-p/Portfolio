@@ -20,7 +20,7 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [SStark0702](https://github.com/Stark0702). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Stark0702](https://github.com/Stark0702). Thanks!
 
 ## Built With
 
