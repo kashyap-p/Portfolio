@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">Kashyap Patel</a>
+  <a href="https://kashyap-p.netlify.app/" target="_blank">Kashyap Patel</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/image.png" />
@@ -20,11 +20,11 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [SStark0702](https://github.com/Stark0702). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Stark0702](https://github.com/Stark0702). Thanks!
 
 ## Built With
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">Kashyap</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://kashyap-p.netlify.app/" target="_blank">Kashyap</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
