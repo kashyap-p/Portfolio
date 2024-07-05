@@ -40,7 +40,7 @@ function NavBar() {
       <Container>
         <Navbar.Brand
           href="/"
-          className="d-flex ms-auto"
+          className="d-flex"
           defaultActiveKey="#home"
         >
           KP
