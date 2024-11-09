@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple">Javascript. </b>
+                <b className="purple">Autocad, Solidworks & Javascript. </b>
               </i>
               <br />
               <br />
