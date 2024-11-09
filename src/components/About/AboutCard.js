@@ -11,11 +11,11 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Kashyap Patel </span>
             from <span className="purple"> Gujarat, India.</span>
             <br />
-            I have completed BE in Mumbai University and done Full-Stack web
+            I have completed BE - Mechanical in Mumbai University and done Full-Stack web
             developemnt course through Coding Ninja.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from designing and coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
